@@ -1,0 +1,15 @@
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\bin\Debug\net8.0\Synchronisation1.exe
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\bin\Debug\net8.0\Synchronisation1.deps.json
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\bin\Debug\net8.0\Synchronisation1.runtimeconfig.json
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\bin\Debug\net8.0\Synchronisation1.dll
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\bin\Debug\net8.0\Synchronisation1.pdb
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.AssemblyInfoInputs.cache
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.AssemblyInfo.cs
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.csproj.CoreCompileInputs.cache
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.sourcelink.json
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.dll
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\refint\Synchronisation1.dll
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.pdb
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\Synchronisation1.genruntimeconfig.cache
+C:\Users\darkb\Desktop\Zafxuli 2025\EpamMyCodes\Synchronisation1\Synchronisation1\obj\Debug\net8.0\ref\Synchronisation1.dll

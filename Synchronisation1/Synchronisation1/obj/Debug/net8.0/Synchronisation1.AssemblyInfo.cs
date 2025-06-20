@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Synchronisation1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02cf16c1c076de9f2d7c62fe84b810a249da12bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Synchronisation1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Synchronisation1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
